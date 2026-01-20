@@ -128,4 +128,24 @@ This task helped me understand:
 - How passwords are attacked
 - Why weak passwords fail
 - How strong authentication protects systems
+---
+
+## Awareness of Password Cracking Tools
+
+Although real password cracking should only be done in controlled lab environments, tools like the following are commonly used in cybersecurity:
+
+- **Hashcat**
+  - GPU-based password cracking tool
+  - Supports dictionary and brute force attacks
+  - Used for security testing
+
+- **John the Ripper**
+  - CPU-based password cracking tool
+  - Simple and widely used
+  - Good for learning password security
+
+These tools are used only for:
+- Testing password strength
+- Auditing systems
+- Educational purposes
 
