@@ -70,7 +70,7 @@ These passwords are weak because:
 
 ---
 
-## What is MFA (Multi-Factor Authentication)?
+## What is MFA?
 MFA adds extra security layers:
 1. Something you know → Password
 2. Something you have → OTP, mobile
@@ -101,25 +101,6 @@ X7@Lq#9M!Z2a
 - Enable MFA
 - Limit login attempts
 - Use password managers
-
----
-
-## Interview Questions
-
-### What is hashing?
-A one-way method of storing passwords securely.
-
-### Difference between hashing and encryption?
-Hashing is irreversible, encryption is reversible.
-
-### What is brute force attack?
-Trying all combinations until the password is found.
-
-### Why is MFA important?
-It protects accounts even if the password is leaked.
-
-### What makes a strong password?
-Length, randomness, complexity, and uniqueness.
 
 ---
 
